@@ -1,11 +1,13 @@
 about:
-  description: XSLT 1.0 Stylesheets for DocBook
+  description:
+  |
+    XSLT 1.0 Stylesheets for DocBook
   license: NOASSERTION
   homepage: 
   head: efd6265
   archived: false
   latestVersion: snapshot/2020-06-03
-  collectedAt: 2026-09-03T05:11:21Z
+  collectedAt: 2026-09-03T22:38:04Z
 timeline:
   created: 2015-09-17
   lastCommit: 2023-06-30
@@ -40,7 +42,7 @@ language:
   PHP: 1757
   Dockerfile: 1436
   XProc: 1070
-totalLine: 9243249
+totalBytes: 9243249
 recent:
   last30d:
     since: 2026-08-04
