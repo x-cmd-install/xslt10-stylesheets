@@ -5,7 +5,7 @@ about:
   head: efd6265
   archived: false
   latestVersion: "snapshot/2020-06-03"
-  collectedAt: 2026-09-08T02:33:58Z
+  collectedAt: 2026-09-08T04:59:25Z
 timeline:
   created: 2015-09-17
   lastCommit: 2023-06-30
@@ -99,7 +99,7 @@ total:
   commit: 6943
 ---
 path: /home/runner/.x-repo/github.com/docbook/xslt10-stylesheets
-collectedAt: 2026-09-08T02:34:23Z
+collectedAt: 2026-09-08T04:59:32Z
 loc:
   XSL:
     code: 119948
