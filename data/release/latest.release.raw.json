@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 25978892,
       "digest": null,
-      "download_count": 1344,
+      "download_count": 1346,
       "created_at": "2020-06-03T23:25:16Z",
       "updated_at": "2020-06-03T23:25:17Z",
       "browser_download_url": "https://github.com/docbook/xslt10-stylesheets/releases/download/snapshot/2020-06-03/docbook-xsl-nons-snapshot.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 25969883,
       "digest": null,
-      "download_count": 15784,
+      "download_count": 15795,
       "created_at": "2020-06-03T23:25:15Z",
       "updated_at": "2020-06-03T23:25:16Z",
       "browser_download_url": "https://github.com/docbook/xslt10-stylesheets/releases/download/snapshot/2020-06-03/docbook-xsl-snapshot.zip"
